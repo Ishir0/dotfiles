@@ -1,0 +1,22 @@
+{
+  "wallpaperCarousel": {
+    "enabled": false,
+    "overlayOpacity": 63
+  },
+  "linuxWallpaperEngine": {
+    "enabled": false,
+    "namedPlaylists": {
+      "Default": []
+    },
+    "outputSettings": {
+      "eDP-1": {
+        "fps": 10
+      }
+    },
+    "activeType": "span",
+    "playlistIntervalMinutes": 0
+  },
+  "quickCapture": {
+    "enabled": true
+  }
+}
